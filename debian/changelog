@@ -1,0 +1,11 @@
+ros-kinetic-odom-frame-publisher (0.0.1-1xenial) xenial; urgency=high
+
+  * remove nav_msgs depends
+  * add CI
+  * add doxygen comment
+  * initial commit
+  * Contributors: Masaya Kataoka
+
+ -- masaya kataoka <ms.kataoka@gmail.com>  Sun, 22 Sep 2019 15:00:00 -0000
+
+
